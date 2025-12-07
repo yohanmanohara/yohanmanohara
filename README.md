@@ -8,8 +8,8 @@ A soul of 1s, 0s & infinite hues 🤓
   I'm Ashan Dimantha.
 </h1>-->
 
-- 👀 I’m interested in Software Engineering, Cloud Engineering, UI/UX, and Cyber Security
-- 🏢 Associate Software Engineer [@Inforwaves](https://www.inforwaves.com/)
+- 👀 I’m interested in Software Engineering, Cloud Engineering and Cyber Security
+
 
 <!-- <div align="right"><h5>Connect WIth Me On</h5>
    <a href="https://www.linkedin.com/in/ashandimanthalk/">
