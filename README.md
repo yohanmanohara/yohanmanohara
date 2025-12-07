@@ -1,6 +1,5 @@
 ![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/81bb4b165684019.640b6038d133e.gif)
 
-A soul of 1s, 0s & infinite hues 🤓
 
 <!--<h1 align="center">
   Hello!!
@@ -18,9 +17,9 @@ A soul of 1s, 0s & infinite hues 🤓
 
 
 
-  [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashandimanthalk/)
-  [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=whi)](https://web.facebook.com/ashandimantha.profile/)
-  [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ashandimanthalk)
+  [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yohan-manohara-277518389/)
+  [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=whi)](https://www.facebook.com/yohanmanohara80/)
+  [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/yohan_manohara/)
 
 
   
@@ -46,8 +45,6 @@ A soul of 1s, 0s & infinite hues 🤓
 
   
   <!-- ## Achievements -->
-
-[![@ashandimanthalk's Holopin board](https://holopin.me/ashandimanthalk)](https://holopin.io/@ashandimanthalk)
 
 <!--  <a href="https://www.credly.com/users/ashandimanthalk/badges">
     <img src="https://images.credly.com/size/680x680/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" title="Introduction to Cyber Security - Cisco Verified" width="100px" style="display:inline-block; margin-right: 30px;"/>
