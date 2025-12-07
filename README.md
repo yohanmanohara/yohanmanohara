@@ -9,7 +9,7 @@ A soul of 1s, 0s & infinite hues 🤓
 </h1>-->
 
 - 👀 I’m interested in Software Engineering, Cloud Engineering, UI/UX, and Cyber Security
-- 🏢 Associate Software Engineer [@Fortude](https://www.inforwaves.com/)
+- 🏢 Associate Software Engineer [@Inforwaves](https://www.inforwaves.com/)
 
 <!-- <div align="right"><h5>Connect WIth Me On</h5>
    <a href="https://www.linkedin.com/in/ashandimanthalk/">
