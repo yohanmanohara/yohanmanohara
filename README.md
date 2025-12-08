@@ -33,7 +33,7 @@
 <div>
     
   ## Tools and Technologies
-[![Technologies](https://skillicons.dev/icons?i=react,nextjs,nestjs,nodejs,expressjs,graphql,mongodb,mysql,redis,sass,tailwind,materialui,bootstrap,redux,docker,aws,jest,flutter,dotnet,js,ts,java,py,c,arduino,linux)](https://ashandimantha.vercel.app/)
+[![Technologies](https://skillicons.dev/icons?i=react,nextjs,nestjs,nodejs,expressjs,graphql,mongodb,mysql,redis,sass,tailwind,materialui,bootstrap,redux,docker,aws,jest,flutter,dotnet,js,ts,java,py,c,arduino,linux)]()
     </br>
 <!-- ## Software and Tools
 [![Softwares](https://skillicons.dev/icons?i=git,npm,yarn,postman,figma)](https://www.ashandimantha.live/) -->
